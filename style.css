@@ -10,6 +10,9 @@ body {
   margin: 0;
 }
 
+.title-span{
+  color: #ff42a5;
+}
 .header,
 .nav,
 .nav-img,
